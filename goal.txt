@@ -1,0 +1,3 @@
+I am looking forward to making a simple, fun app for Android.
+There will be a cybersecurity feature added to the code, with the specific concept to be decided at a later time. 
+
