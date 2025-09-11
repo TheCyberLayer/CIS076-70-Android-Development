@@ -1,0 +1,8 @@
+<!-- Using string resources from a central location. -->
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="welcome_message">Hi, my name is Michelle!</string>
+    <string name="button_label">Click Me!</string>
+    <string name="image_description">App logo of balloons</string>
+    <string name="button_clicked">Button Clicked!</string>
+</resources>
