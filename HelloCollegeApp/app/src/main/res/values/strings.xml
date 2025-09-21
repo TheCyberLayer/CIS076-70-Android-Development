@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloCollegeApp</string>
+    <string name="welcome_message">Hello, SBVC!</string>
+    <string name="button_label">Click Me!</string>
+    <string name="change_text">You\'re turning 100!</string>
+    <string name="image_description">Picture of college library</string>
+    <string name="button_clicked">Congrats!</string>
+</resources>
