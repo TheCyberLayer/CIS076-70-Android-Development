@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ValleyCollegeApp</string>
+    <string name="welcome_message">Welcome to SBVC!</string>
+    <string name="second_message">Explore Valley College</string>
+    <string name="button_label">Visit Website</string>
+    <string name="back_button">Go Back</string>
+</resources>
