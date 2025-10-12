@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginScreenApp</string>
+    <string name="username_hint">Enter Email or Username</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="content_description">AppLogo</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="button_clicked">Login Successful</string>
+</resources>
