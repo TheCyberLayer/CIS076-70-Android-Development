@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloApp</string>
+    <string name="my_name"> Michelle Umali</string>
+    <string name="message">Click Me</string>
+    <string name="email_message">Open Email</string>
+    <string name="website_message">Open Website</string>
+    <string name="second_image">"100 year anniversary"</string>
+    <string name="third_image">"Athletic building"</string>
+</resources>
