@@ -1,9 +1,16 @@
 <resources>
     <string name="app_name">HelloApp</string>
     <string name="my_name"> Michelle Umali</string>
+    <string name="login">Login</string>
     <string name="message">Click Me</string>
     <string name="email_message">Open Email</string>
     <string name="website_message">Open Website</string>
     <string name="second_image">"100 year anniversary"</string>
     <string name="third_image">"Athletic building"</string>
+    <string name="library">Library</string>
+    <string name="username">Enter Email or Username</string>
+    <string name="enterHere">Enter Here</string>
+    <string name="passwordHint">Enter Password</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="submit">Submit</string>
 </resources>
