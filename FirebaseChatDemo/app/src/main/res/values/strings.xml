@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirebaseChatDemo</string>
+    <string name="log_out">Logout</string>
+    <string name="file_message">📎 %1$s</string>
+    <string name="welcome">Welcome!</string>
+    <string name="go">Go to chat</string>
+    <string name="attach">Attach file</string>
+    <string name="start">Start chat</string>
+    <string name="enter">Enter your message</string>
+    <string name="home">Go to Home</string>
+    <string name="send">Send</string>
+    <string name="purple_code">Purple Code Wall</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create">Create account</string>
+    <string name="login">Log in</string>
+    <string name="forgot">Forgot password?</string>
+</resources>
